@@ -11,7 +11,7 @@ const Footer = () => {
           Desenvolvido por Paulo Igor Torres.
         </p>
         <p className='text-white'>
-          Todos os direitos reservados
+          Todos os direitos reservados.
         </p>
       </div>
     </footer>
